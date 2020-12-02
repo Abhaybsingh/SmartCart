@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Hackathon3</string>
+    <string name="smart_pay">Smart Pay</string>
+    <string name="log_in">Log In</string>
+    <string name="name">Name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="new_to_smart_pay">New to Smart Pay</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="phone_number_optional">Phone Number(Optional)</string>
+    <string name="add_your_location">Add Your Location</string>
+    <string name="state">State</string>
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+</resources>
